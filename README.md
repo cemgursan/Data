@@ -8,7 +8,7 @@ Written in Jupyter Notebook. Notebook files are uploaded.
 
 ### Dependencies
 
-Python, Numpy, Pandas, Jupyter Notebook are necessary
+Python, Numpy, Pandas, SQLite Jupyter Notebook are necessary
 
 ### Installing & Executing program
 
